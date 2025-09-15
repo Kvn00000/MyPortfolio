@@ -6,8 +6,8 @@ export default function ProjectCard({ project, onOpen }) {
     <article className="border rounded-lg overflow-hidden shadow-sm hover:shadow-md transition">
       {/* <button onClick={onOpen} className="text-left w-full"> */}
       <img
-        src={project.img}
-        alt={project.title}
+        src={process.env.PUBLIC_URL + '/' + project.img} 
+        alt={project.title} 
         className="w-full h-48 object-cover"
       />
       <div className="p-4">

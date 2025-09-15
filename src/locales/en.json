@@ -31,7 +31,7 @@
         "date_start": "November 2024",
         "date_end": "January 2025",
         "tech": ["Python", "Pygame", "Matplotlib"],
-        "img": "/assets/BrazilNut.png",
+        "img": "assets/BrazilNut.png",
         "links": {}
     },
     "p2":{
@@ -40,7 +40,7 @@
         "date_start": "November 2024",
         "date_end": "January 2025",
         "tech": ["Java", "GAMA"],
-        "img": "/assets/Ecotopia.png",
+        "img": "assets/Ecotopia.png",
         "links": {}
     },
     "p3":{
@@ -49,7 +49,7 @@
         "date_start": "October 2024",
         "date_end": "November 2024",
         "tech": ["Unity", "C#", "ECS", "FyFy", "Python"],
-        "img": "/assets/Spy.png",
+        "img": "assets/Spy.png",
         "links": { "github": "https://github.com/Kvn00000/SPY-master", "demo": "REPLACE_ME_LIVE_1" }
     },
     "p4":{
@@ -58,7 +58,7 @@
         "date_start": "October 2024",
         "date_end": "November 2024",
         "tech": ["Unity", "C#"],
-        "img": "/assets/Doodle.png",
+        "img": "assets/Doodle.png",
         "links": { "github": "https://github.com/Kvn00000/Doodle-Jump", "demo": "REPLACE_ME_LIVE_1" }
     },
     "p5":{
@@ -67,7 +67,7 @@
         "date_start": "October 2024",
         "date_end": "November 2024",
         "tech": ["Java", "Eclipse", "Jade"],
-        "img": "/assets/dedale.png",
+        "img": "assets/dedale.png",
         "links": {"github" : "https://github.com/Kvn00000/Dedale-etu"}
     },
     "p6":{
@@ -76,7 +76,7 @@
         "date_start": "October 2024",
         "date_end": "November 2024",
         "tech": ["C#", "Unity", "ECS"],
-        "img": "/assets/Ricochet.png",
+        "img": "assets/Ricochet.png",
         "links": {}
     }
   },
