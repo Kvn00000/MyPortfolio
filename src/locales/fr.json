@@ -1,0 +1,108 @@
+{
+  "hero": {
+    "name": "Kevin DING",
+    "title": "Bonjour, je suis Kevin",
+    "tagline": "Ingénieur de Recherche"
+  },
+  "about": {
+    "title": "À propos de moi",
+    "bio": "Bonjour, je suis Kevin, un ingénieur de recherche spécialisé dans les technologies immersives et l'IA. J'adore créer des solutions innovantes qui allient technologie et expérience utilisateur. Je suis à la recherche d'une première opportunité professionnelle dans la simulation."
+  },
+  "button": {
+    "contact": "Contactez-moi"
+  },
+  "nav": {
+    "about": "À propos",
+    "exp": "Expérience",
+    "skills": "Compétences",
+    "projects": "Projets",
+    "contact": "Contact"
+  },
+    "pdf": "cv_fr.pdf",
+  "skills":{
+    "programming": "Languages de Programmation",
+    "frameworks": "Frameworks & Libraries",
+    "tools": "Outils & Méthodologies"
+  },
+  "projects":{
+    "p1":{
+        "title": "Brazil nut effect simulation",
+        "desc": "Simulation de l'effet Brazil nut",
+        "date_start": "November 2024",
+        "date_end": "January 2025",
+        "tech": ["Python", "Pygame", "Matplotlib"],
+        "img": "/assets/BrazilNut.png",
+        "links": {}
+    },
+    "p2":{
+        "title": "Ecotopia Multi-agent System",
+        "desc": "Simulation de la durabilité d’une société fictive à partir de données françaises",
+        "date": "Novembre 2024",
+        "date_end": "Janvier 2025",
+        "tech": ["Java", "GAMA"],
+        "img": "/assets/Ecotopia.png",
+        "links": {}
+    },
+    "p3":{
+        "title": "Spy Lip6",
+        "desc": "Ajout de nouvelle mécanique en utilisant une architecture ECS avec le framework Fyfy",
+        "date": "Octobre 2024",
+        "date_end": "Novembre 2024",
+        "tech": ["Unity", "C#", "ECS", "FyFy", "Python"],
+        "img": "/assets/Spy.png",
+        "links": { "github": "https://github.com/Kvn00000/SPY-master", "demo": "REPLACE_ME_LIVE_1" }
+        
+    },
+    "p4":{
+        "title": "Doodle Jump",
+        "desc": "Reproduction du jeu Doodle Jump",
+        "date_start": "October 2024",
+        "date_end": "November 2024",
+        "tech": ["Unity","C#"],
+        "img": "/assets/Doodle.png",
+        "links": { "github": "https://github.com/Kvn00000/Doodle-Jump", "demo": "REPLACE_ME_LIVE_1" }
+    },
+    "p5":{
+        "title": "Dédale",
+        "desc": "Développement d’un projet multi agent du type “Hunt the Wumpus”",
+        "date_start": "October 2024",
+        "date_end": "November 2024",
+        "tech": ["Java", "Eclipse", "Jade"],
+        "img": "/assets/dedale.png",
+        "links": {"github" : "https://github.com/Kvn00000/Dedale-etu"}
+    },
+    "p6":{
+        "title": "Ricochet Robots",
+        "desc": "Application des méthodes de recherche arborescente (A*) pour la résolution du  jeu de société Ricochet Robots",
+        "date_start": "October 2024",
+        "date_end": "November 2024",
+        "tech": ["Python"],
+        "img": "/assets/Ricochet.png",
+        "links": {}
+    }
+  },
+  "experience":{
+    "e1":{
+        "title": "Stage : Ingénieur de Recherche",
+        "company": "Berger-Levrault",
+        "desc": ["Développement et Conception d’une interface vocale en réalité mixte (MR) permettant d’interagir avec un assistant IA pour une application de maintenance industrielle existante, de la conception à l’implémentation.",
+                "Recherche et analyse sur les besoins utilisateurs et les scénarios d’usage afin de concevoir des interactions contextuelles adaptées aux environnements immersifs.",
+                "Intégration de la reconnaissance vocale, synthèse vocale (TTS), de l’affichage d’images/textes, commandes vocales et menus.",
+                "Étude utilisateur avec 16 participants."],
+        "date_start": "Février 2025",
+        "date_end": "Août 2025",
+        "location": "Paris, France"
+    },
+    "e2":{
+        "title": "Stage : Développeur",
+        "company": "Institut des Systèmes Intelligent et Robotique (ISIR)",
+        "desc": ["Développement en réalité virtuelle d’une simulation immersive et interactive de comportements adaptatifs en essaim pour agents virtuels (Boids) sur casque Meta Quest 3.",
+                "Génération procédurale de mesh pour un environnement avec évitement d’obstacles, permettant aux Boids d’interagir avec des éléments de l’environnement modifiables par l’utilisateur.",
+                "Développement d’interactions simples et intuitives avec l’environnement via le XR Interactor.",
+                "Réalisation de test unitaire"],
+        "date_start": "Juin 2024",
+        "date_end": "Juillet 2024",
+        "location": "Paris, France"
+    }
+  }
+}

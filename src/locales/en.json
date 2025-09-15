@@ -1,0 +1,107 @@
+{
+  "hero": {
+    "name": "Kevin DING",
+    "title": "Hello, I'm Kevin",
+    "tagline": "Research Engineer"
+  },
+  "about": {
+    "title": "About Me",
+    "bio": "Hello I'm Kevin, a research engineer specializing in immersive technologies and AI. I love creating innovative solutions that blend technology and user experience. I am seeking a first professional opportunity in simulation."
+  },
+  "button": {
+    "contact": "Contact Me"
+  },
+   "nav": {
+    "about": "About",
+    "exp": "Experience",
+    "skills": "Skills",
+    "projects": "Projects",
+    "contact": "Contact"
+  },
+    "pdf": "cv_en.pdf",
+  "skills":{
+    "programming": "Programming Languages",
+    "frameworks": "Frameworks & Libraries",
+    "tools": "Tools & Methodologies"
+  },
+  "projects":{
+    "p1":{
+        "title": "Brazil nut effect simulation",
+        "desc": "Simulation of the Brazil nut effect",
+        "date_start": "November 2024",
+        "date_end": "January 2025",
+        "tech": ["Python", "Pygame", "Matplotlib"],
+        "img": "/assets/BrazilNut.png",
+        "links": {}
+    },
+    "p2":{
+        "title": "Ecotopia Multi-agent System",
+        "desc": "Simulation of the sustainability of a fictional society based on real French data",
+        "date_start": "November 2024",
+        "date_end": "January 2025",
+        "tech": ["Java", "GAMA"],
+        "img": "/assets/Ecotopia.png",
+        "links": {}
+    },
+    "p3":{
+        "title": "Spy Lip6",
+        "desc": "Added new gameplay mechanics using an ECS architecture with the Fyfy framework",
+        "date_start": "October 2024",
+        "date_end": "November 2024",
+        "tech": ["Unity", "C#", "ECS", "FyFy", "Python"],
+        "img": "/assets/Spy.png",
+        "links": { "github": "https://github.com/Kvn00000/SPY-master", "demo": "REPLACE_ME_LIVE_1" }
+    },
+    "p4":{
+        "title": "Doodle Jump",
+        "desc": "Reproduction of the game Doodle Jump",
+        "date_start": "October 2024",
+        "date_end": "November 2024",
+        "tech": ["Unity", "C#"],
+        "img": "/assets/Doodle.png",
+        "links": { "github": "https://github.com/Kvn00000/Doodle-Jump", "demo": "REPLACE_ME_LIVE_1" }
+    },
+    "p5":{
+        "title": "Dédale",
+        "desc": "Development of a multi-agent project of the 'Hunt the Wumpus' type",
+        "date_start": "October 2024",
+        "date_end": "November 2024",
+        "tech": ["Java", "Eclipse", "Jade"],
+        "img": "/assets/dedale.png",
+        "links": {"github" : "https://github.com/Kvn00000/Dedale-etu"}
+    },
+    "p6":{
+        "title": "Ricochet Robots",
+        "desc": "Application of tree search methods (A*) for solving the board game Ricochet Robots",
+        "date_start": "October 2024",
+        "date_end": "November 2024",
+        "tech": ["C#", "Unity", "ECS"],
+        "img": "/assets/Ricochet.png",
+        "links": {}
+    }
+  },
+  "experience":{
+    "e1":{
+        "title": "Intership : Research engineer",
+        "company": "Berger-Levrault",
+        "desc": ["Development and design of a voice interface in mixed reality (MR) to interact with an AI assistant, for an existing industrial maintenance application, from design to implementation.",
+                "Research and analysis on user needs and usage scenarios to design contextual interactions adapted to immersive environments.",
+                "Integration of speech recognition, text-to-speech (TTS), image/text display, voice commands, and menus.",
+                "User study with 16 users."],
+        "date_start": "February 2025",
+        "date_end": "August 2025",
+        "location": "Paris, France"
+    },
+    "e2":{
+        "title": "Internship : Developer",
+        "company": "Institut des Systèmes Intelligent et Robotique (ISIR)",
+        "desc": ["Virtual reality development of an immersive and interactive simulation of adaptive swarm behaviors for virtual agents (Boids) on Meta Quest 3 headset.",
+                "Procedural mesh generation for an environment with obstacle avoidance, enabling Boids to interact with environment elements adjustable by the user.",
+                "Development of simple and intuitive interactions with the environment using the XR Interactor.",
+                "Implementation of unit tests."],
+        "date_start": "June 2024",
+        "date_end": "July 2024",
+        "location": "Paris, France"
+    }
+  }
+}
